@@ -1,9 +1,10 @@
 body {
     background-image: url(https://assets-global.website-files.com/60ff690cd7b0537edb99a29a/63167908e5625c87146b50a5_O%20significado%20das%20cores%20da%20bandeira%20do%20Brasil.webp)                                                                                   ;
+    text-align: left;
 }
 
 .futebol {
-    width: 40%;
+    width: 40;
     background-color: rgba(0, 128, 0, 0.8);
 }
 
